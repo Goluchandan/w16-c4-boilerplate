@@ -20,4 +20,6 @@ export const Select = styled.select`
 export const Flex = styled.div`
   border: 2px solid #111;
   border-radius: 12px;
+  background: white;
+
 `;
