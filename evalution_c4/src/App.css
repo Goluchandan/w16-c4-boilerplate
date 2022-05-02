@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background: #b6b2b2;
+}
+
+nav > a {
+  text-decoration: none;
+  color: #fff;
+  padding-right: 20px;
+}
+
+.active {
+  font-weight: 800;
+  color: #111;
+}
